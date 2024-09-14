@@ -1,0 +1,1 @@
+#This website is resposive for max-width:471px
